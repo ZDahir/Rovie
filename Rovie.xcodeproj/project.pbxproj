@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1888788D2C17EC2100EA806C /* SplashScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1888788C2C17EC2100EA806C /* SplashScreen.swift */; };
 		18F3A4012BD2398500A2C45E /* RovieApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18F3A4002BD2398500A2C45E /* RovieApp.swift */; };
 		18F3A4032BD2398500A2C45E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18F3A4022BD2398500A2C45E /* ContentView.swift */; };
 		18F3A4052BD2398500A2C45E /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18F3A4042BD2398500A2C45E /* Item.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1888788C2C17EC2100EA806C /* SplashScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashScreen.swift; sourceTree = "<group>"; };
 		18F3A3FD2BD2398500A2C45E /* Rovie.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Rovie.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		18F3A4002BD2398500A2C45E /* RovieApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RovieApp.swift; sourceTree = "<group>"; };
 		18F3A4022BD2398500A2C45E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -91,6 +93,7 @@
 				18F3A4112BD23E4D00A2C45E /* HomeView.swift */,
 				18F3A4132BD23E8700A2C45E /* LikedView.swift */,
 				18F3A4152BD23EE900A2C45E /* SearchView.swift */,
+				1888788C2C17EC2100EA806C /* SplashScreen.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -189,6 +192,7 @@
 			files = (
 				18F3A4032BD2398500A2C45E /* ContentView.swift in Sources */,
 				18F3A4122BD23E4D00A2C45E /* HomeView.swift in Sources */,
+				1888788D2C17EC2100EA806C /* SplashScreen.swift in Sources */,
 				18F3A4052BD2398500A2C45E /* Item.swift in Sources */,
 				18F3A4012BD2398500A2C45E /* RovieApp.swift in Sources */,
 				18F3A4162BD23EE900A2C45E /* SearchView.swift in Sources */,
